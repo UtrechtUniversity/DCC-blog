@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DCC @ Utrecht University Library</title>
+<link>https://utrechtuniversity.github.io/dcc/</link>
+<atom:link href="https://utrechtuniversity.github.io/dcc/index.xml" rel="self" type="application/rss+xml"/>
+<description>This is a blog about the Digital Competence Center of Utrecht University Library</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sun, 18 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>My first blogpost</title>
+  <dc:creator>Emily Westerbeek</dc:creator>
+  <link>https://utrechtuniversity.github.io/dcc/home/2026-010-19.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>This is my first blog post, woohoo!</p>
+
+
+
+ ]]></description>
+  <guid>https://utrechtuniversity.github.io/dcc/home/2026-010-19.html</guid>
+  <pubDate>Sun, 18 Jan 2026 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

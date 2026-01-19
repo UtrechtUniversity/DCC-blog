@@ -1,0 +1,9 @@
+---
+title: "My first blogpost"
+description: |
+
+author: Emily Westerbeek
+date: 19 January 2026
+---
+
+This is my first blog post, woohoo!

@@ -1,0 +1,9 @@
+---
+title: "Attempting a DCC Blogpost"
+description: |
+
+author: Dan Rudmann
+date: 20 January 2026
+---
+
+Alright let's see if this let's me update the site.

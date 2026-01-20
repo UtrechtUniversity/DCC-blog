@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-This is a blog for the Digital Competence Center at Utrecht University Library
+This is a blog for the Digital Competence Center at Utrecht University.
+
+The DCC exists to traverse borders, increase visibility, and experience a sense of community in co-creating digital competencies to support research at Utrecht University. Together, colleagues across the university weave diverse resources for research data, software, and infrastructure, building more resilient and robust modes of research by sharing knowledge and collectivising across the institution.
+
+By combining our knowledge and strengths, together we can achieve results that would not be possible for individual teams. 
